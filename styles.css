@@ -1,0 +1,211 @@
+h1 {
+    color: #FF69B4;
+    text-align: center;
+  }
+  .mamaCaja {
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    margin: auto;
+  }
+
+  .caja1{
+    width:100px;
+    height:100px;
+    background-color: #FFFACD;
+    position: absolute;
+  }
+
+
+  
+  #emoji1{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja2{
+    width:100px;
+    height:100px;
+    background-color: #E6E6FA;
+    position: absolute; 
+    margin-left:100px;
+  }
+  
+  #emoji2{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja3{
+    width:100px;
+    height:100px;
+    background-color: #D8BFD8;
+    position: absolute; 
+   margin-left:200px;
+  }
+  
+  #emoji3{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja4{
+    width:100px;
+    height:100px;
+    background-color: #AFEEEE;
+    margin-left:300px;
+  }
+  
+  #emoji4{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    font-size: 2em;
+  }
+  
+  .caja5{
+    width:100px;
+    height: 100px;
+    background-color: #DDA0DD;
+   position: absolute;
+  }
+  
+  #emoji5{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja6{
+    width:100px;
+    height: 100px;
+    background-color: #FFE4C4;
+    margin-left:100px;
+  position: absolute;
+    
+  }
+  
+  #emoji6{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  
+  .caja7{
+    width:100px;
+    height: 100px;
+    background-color: #FFDEAD;
+    margin-left:200px;
+    position: absolute;
+    
+  }
+  
+  #emoji7{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja8{
+    width:100px;
+    height: 100px;
+    background-color: #BC8F8F;
+    margin-left:300px;
+  }
+  #emoji8{
+    margin-left: 40px;
+    font-size: 2em;
+  }
+  
+  .caja9{
+    width:100px;
+    height: 100px;
+    background-color: #FFF5EE;
+   position: absolute;
+  }
+  #emoji9{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .caja10{
+      width:100px;
+      height: 100px;
+      background-color: #DA70D6;
+     position: absolute;
+     margin-left:100px;
+    }
+  
+  #emoji10{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+    .caja11{
+      width:100px;
+      height: 100px;
+      background-color: #7B68EE;
+     position: absolute;
+     margin-left:200px;
+    }
+  
+  #emoji11{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+    .caja12{
+      width:100px;
+      height: 100px;
+      background-color: #B0C4DE;
+     margin-left:300px;
+    }
+  #emoji12{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+    .caja13{
+      width:100px;
+      height: 100px;
+      background-color: #87CEFA;
+     position: absolute;
+    }
+  
+  #emoji13{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
+    .caja14{
+      width:100px;
+      height: 100px;
+      background-color: #F5DEB3;
+     position: absolute;
+     margin-left:100px;
+    }
+  
+  #emoji14{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+  }
